@@ -1,0 +1,8 @@
+{
+  "name": "project-icu",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "git@github.com:aolyang/project-icu.git",
+  "author": "aolyang <aolyang@foxmail.com>",
+  "license": "MIT"
+}
